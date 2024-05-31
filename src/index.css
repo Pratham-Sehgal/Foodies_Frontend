@@ -1,0 +1,10 @@
+
+/* Custom CSS */
+.custom-container {
+  max-height: 70vh; /* Set the container's height to 50% of the viewport height */
+  overflow: hidden; /* Hide overflow content beyond the specified height */
+}
+
+/* .custom-container #carouselExampleIndicators {
+  height: 100%; /* Ensure the carousel fills the entire container's height */
+
